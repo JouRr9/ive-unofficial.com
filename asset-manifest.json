@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ive-unofficial.com/static/css/main.c6c134b2.css",
-    "main.js": "/ive-unofficial.com/static/js/main.3814e811.js",
+    "main.css": "/ive-unofficial.com/static/css/main.99823ba6.css",
+    "main.js": "/ive-unofficial.com/static/js/main.267668db.js",
     "static/media/background.jpg": "/ive-unofficial.com/static/media/background.b6050b7352ffdcd15480.jpg",
     "index.html": "/ive-unofficial.com/index.html",
-    "main.c6c134b2.css.map": "/ive-unofficial.com/static/css/main.c6c134b2.css.map",
-    "main.3814e811.js.map": "/ive-unofficial.com/static/js/main.3814e811.js.map"
+    "main.99823ba6.css.map": "/ive-unofficial.com/static/css/main.99823ba6.css.map",
+    "main.267668db.js.map": "/ive-unofficial.com/static/js/main.267668db.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6c134b2.css",
-    "static/js/main.3814e811.js"
+    "static/css/main.99823ba6.css",
+    "static/js/main.267668db.js"
   ]
 }
